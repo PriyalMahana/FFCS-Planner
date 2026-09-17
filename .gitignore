@@ -1,0 +1,15 @@
+# Compiled class files
+out/
+bin/
+*.class
+
+# Log files
+*.log
+
+# Project output files (Timetables generated during testing)
+output/
+
+# IDE specific files (if you use IntelliJ or Eclipse later)
+.idea/
+*.iml
+.vscode/
